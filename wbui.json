@@ -1,0 +1,93 @@
+{
+  "WBUI2": {
+    "settings": {
+      "openbutton": 0,
+      "hideicon": false,
+      "hideiconafter": 60,
+      "iconurl": "https://i.imgur.com/AbGuckH.png",
+      "disableicontext": false,
+      "iconposition": 0,
+      "icontextcolor": 6,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 1
+    },
+
+    "tabs": [
+
+      {
+        "layout": 1,
+        "buttontext": "🏠 Home",
+        "imageurl": "https://i.imgur.com/Tw16UOA.png",
+        "content": [
+          {
+            "title": "Welcome to Ascendancy PvE",
+            "text": "Crossplay • No Wipe • Friendly Community\n\nWelcome Survivor!\n\nAscendancy PvE is designed for long-term progression without wipes.\nBuild your dream base, tame legendary creatures and enjoy an active, friendly community.\n\nFEATURES\n\n⭐ Crossplay\n⭐ No Wipe\n⭐ Active Admin Team\n⭐ Friendly Community\n⭐ Events & Giveaways\n⭐ In-Game Shop\n⭐ Discord Support"
+          }
+        ]
+      },
+
+      {
+        "layout": 1,
+        "buttontext": "📖 Rules",
+        "imageurl": "https://i.imgur.com/BkOKsq9.png",
+        "content": [
+          {
+            "title": "Server Rules",
+            "text": "✔ Respect all players.\n\n✔ No griefing.\n\n✔ No cheating or exploiting.\n\n✔ Don't block important resource spawns.\n\n✔ Build responsibly.\n\n✔ Keep chat friendly.\n\n✔ Follow admin instructions.\n\nBreaking the rules may result in warnings or bans."
+          }
+        ]
+      },
+
+      {
+        "layout": 1,
+        "buttontext": "📊 Rates",
+        "imageurl": "https://i.imgur.com/Tw16UOA.png",
+        "content": [
+          {
+            "title": "Server Rates",
+            "text": "XP x2\n\nHarvest x5\n\nTaming x5\n\nBreeding x5\n\nCrop Growth x2\n\nMax Wild Dino Level 150\n\nIncreased Player Weight\n\nIncreased Dino Weight\n\nCrossplay Enabled\n\nNo Wipe"
+          }
+        ]
+      },
+
+      {
+        "layout": 1,
+        "buttontext": "🛒 Shop",
+        "imageurl": "https://i.imgur.com/yVNJ0oW.png",
+        "content": [
+          {
+            "title": "Ascendancy Store",
+            "text": "Support the server and unlock awesome perks!\n\n✔ Starter Kits\n✔ Creature Packs\n✔ Server Support\n\nVisit:\nhttps://ascendancy.tip4serv.com/"
+          }
+        ]
+      },
+
+      {
+        "layout": 1,
+        "buttontext": "💬 Discord",
+        "imageurl": "https://i.imgur.com/mGEO8U7.png",
+        "content": [
+          {
+            "title": "Join our Discord",
+            "text": "Stay connected with the Ascendancy Community!\n\n✔ Server News\n✔ Events\n✔ Giveaways\n✔ Support\n✔ Community Chat\n\nJoin today:\nhttps://discord.gg/aUnvPSQSA"
+          }
+        ]
+      }
+
+    ],
+
+    "links": [
+      {
+        "text": "💬 Discord",
+        "url": "https://discord.gg/aUnvPSQSA"
+      },
+      {
+        "text": "🛒 Store",
+        "url": "https://ascendancy.tip4serv.com/"
+      }
+    ],
+
+    "version": 2
+  }
+}
