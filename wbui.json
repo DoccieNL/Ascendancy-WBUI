@@ -3,10 +3,10 @@
     "settings": {
       "openbutton": 0,
       "hideicon": false,
-      "hideiconafter": 60,
+      "hideiconafter": 30,
       "iconurl": "https://i.imgur.com/AbGuckH.png",
       "disableicontext": false,
-      "iconposition": 0,
+      "iconposition": 3,
       "icontextcolor": 6,
       "openonstart": true,
       "openonstartonlynewplayers": true,
@@ -21,8 +21,8 @@
         "imageurl": "https://i.imgur.com/Tw16UOA.png",
         "content": [
           {
-            "title": "Welcome to Ascendancy PvE",
-            "text": "Crossplay • No Wipe • Friendly Community\n\nWelcome Survivor!\n\nAscendancy PvE is designed for long-term progression without wipes.\nBuild your dream base, tame legendary creatures and enjoy an active, friendly community.\n\nFEATURES\n\n⭐ Crossplay\n⭐ No Wipe\n⭐ Active Admin Team\n⭐ Friendly Community\n⭐ Events & Giveaways\n⭐ In-Game Shop\n⭐ Discord Support"
+            "title": "",
+            "text": ""
           }
         ]
       },
@@ -33,20 +33,8 @@
         "imageurl": "https://i.imgur.com/BkOKsq9.png",
         "content": [
           {
-            "title": "Server Rules",
-            "text": "✔ Respect all players.\n\n✔ No griefing.\n\n✔ No cheating or exploiting.\n\n✔ Don't block important resource spawns.\n\n✔ Build responsibly.\n\n✔ Keep chat friendly.\n\n✔ Follow admin instructions.\n\nBreaking the rules may result in warnings or bans."
-          }
-        ]
-      },
-
-      {
-        "layout": 1,
-        "buttontext": "📊 Rates",
-        "imageurl": "https://i.imgur.com/Tw16UOA.png",
-        "content": [
-          {
-            "title": "Server Rates",
-            "text": "XP x2\n\nHarvest x5\n\nTaming x5\n\nBreeding x5\n\nCrop Growth x2\n\nMax Wild Dino Level 150\n\nIncreased Player Weight\n\nIncreased Dino Weight\n\nCrossplay Enabled\n\nNo Wipe"
+            "title": "",
+            "text": ""
           }
         ]
       },
@@ -57,8 +45,8 @@
         "imageurl": "https://i.imgur.com/yVNJ0oW.png",
         "content": [
           {
-            "title": "Ascendancy Store",
-            "text": "Support the server and unlock awesome perks!\n\n✔ Starter Kits\n✔ Creature Packs\n✔ Server Support\n\nVisit:\nhttps://ascendancy.tip4serv.com/"
+            "title": "",
+            "text": ""
           }
         ]
       },
@@ -69,8 +57,68 @@
         "imageurl": "https://i.imgur.com/mGEO8U7.png",
         "content": [
           {
-            "title": "Join our Discord",
-            "text": "Stay connected with the Ascendancy Community!\n\n✔ Server News\n✔ Events\n✔ Giveaways\n✔ Support\n✔ Community Chat\n\nJoin today:\nhttps://discord.gg/aUnvPSQSA"
+            "title": "",
+            "text": ""
+          }
+        ]
+      },
+
+      {
+        "layout": 2,
+        "buttontext": "📊 Rates",
+        "imageurl": "https://i.imgur.com/AbGuckH.png",
+        "content": [
+          {
+            "title": "Ascendancy PvE Rates",
+            "text": "XP x2\n\nHarvest x5\n\nTaming x5\n\nBreeding x5\n\nCrop Growth x2\n\nMax Wild Dino Level 150\n\nPlayer Weight Increased\n\nDino Weight Increased\n\nCrossplay Enabled\n\nNo Wipe"
+          }
+        ]
+      },
+
+      {
+        "layout": 2,
+        "buttontext": "🦖 Mods",
+        "imageurl": "https://i.imgur.com/AbGuckH.png",
+        "content": [
+          {
+            "title": "Installed Mods",
+            "text": "QUALITY OF LIFE\n\n• Awesome Spyglass\n• Dino Depot\n• Solo Farm Mod\n• TG Stacking Mod\n• Automated Dino Wipes\n• WBUI2\n• Tip4Serv\n\nCREATURES\n\n• Shiny Dinos\n• Paleo Evolution\n• Dragon Kingdom\n• Runic Wyverns\n• S-Dino Variants\n• Moro's Creatures\n\nBUILDING\n\n• JVH Landscaping\n• JVH Garden Decor"
+          }
+        ]
+      },
+
+      {
+        "layout": 2,
+        "buttontext": "🎁 Events",
+        "imageurl": "https://i.imgur.com/AbGuckH.png",
+        "content": [
+          {
+            "title": "Community Events",
+            "text": "Seasonal Events\n\nBoss Runs\n\nTreasure Hunts\n\nCommunity Challenges\n\nShiny Hunt Weekend\n\nGiveaways\n\nMore events coming soon!"
+          }
+        ]
+      },
+
+      {
+        "layout": 2,
+        "buttontext": "📢 News",
+        "imageurl": "https://i.imgur.com/AbGuckH.png",
+        "content": [
+          {
+            "title": "Latest Updates",
+            "text": "Welcome to Ascendancy PvE!\n\nGenesis Server Online\n\nNew Shop Available\n\nDiscord Community Open\n\nMore custom content is coming soon."
+          }
+        ]
+      },
+
+      {
+        "layout": 2,
+        "buttontext": "❓ Help",
+        "imageurl": "https://i.imgur.com/AbGuckH.png",
+        "content": [
+          {
+            "title": "Need Help?",
+            "text": "Need assistance?\n\nJoin our Discord\n\nOpen a Support Ticket\n\nRead the Server Rules\n\nContact an Admin\n\nWe are always happy to help!"
           }
         ]
       }
