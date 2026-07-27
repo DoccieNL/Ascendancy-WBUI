@@ -4,7 +4,7 @@
       "openbutton": 1,
       "hideicon": false,
       "hideiconafter": 30,
-      "iconurl": "https://i.imgur.com/AbGuckH.png",
+      "iconurl": "https://i.imgur.com/QTOREBJ.png",
       "disableicontext": false,
       "iconposition": 3,
       "icontextcolor": 6,
@@ -12,119 +12,118 @@
       "openonstartonlynewplayers": true,
       "updateinterval": 1
     },
-
     "tabs": [
-
       {
         "layout": 1,
-        "buttontext": "🏠 Home",
-        "imageurl": "https://i.imgur.com/Tw16UOA.png",
+        "buttontext": "⚔️ Home",
+        "imageurl": "https://i.imgur.com/QTOREBJ.png",
         "content": [
           {
-            "title": "",
-            "text": ""
+            "title": "Welcome to Ascendancy PvP",
+            "text": "Fight. Build. Raid. Dominate.\n\nFresh PvP experience.\nBalanced gameplay.\nCrossplay enabled.\nWeekly events.\nGood luck, Survivor!"
           }
         ]
       },
-
       {
-        "layout": 1,
-        "buttontext": "📖 Rules",
-        "imageurl": "https://i.imgur.com/BkOKsq9.png",
+        "layout": 2,
+        "buttontext": "📜 Rules",
+        "imageurl": "https://i.imgur.com/QTOREBJ.png",
         "content": [
           {
-            "title": "",
-            "text": ""
+            "title": "Server Rules",
+            "text": "• No cheating or hacking.\n• No meshing or exploiting.\n• Max tribe size: 6.\n• No tribe alliances.\n• Respect all players and staff.\n• Racism, hate speech and harassment are not allowed.\n• Use common sense.\n\nBreaking the rules may result in a permanent ban."
           }
         ]
       },
-
-      {
-        "layout": 1,
-        "buttontext": "🛒 Shop",
-        "imageurl": "https://i.imgur.com/yVNJ0oW.png",
-        "content": [
-          {
-            "title": "",
-            "text": ""
-          }
-        ]
-      },
-
-      {
-        "layout": 1,
-        "buttontext": "💬 Discord",
-        "imageurl": "https://i.imgur.com/mGEO8U7.png",
-        "content": [
-          {
-            "title": "",
-            "text": ""
-          }
-        ]
-      },
-
       {
         "layout": 2,
         "buttontext": "📊 Rates",
-        "imageurl": "https://i.imgur.com/AbGuckH.png",
+        "imageurl": "https://i.imgur.com/QTOREBJ.png",
         "content": [
           {
-            "title": "Ascendancy PvE Rates",
-            "text": "XP x2\n\nHarvest x5\n\nTaming x5\n\nBreeding x5\n\nCrop Growth x2\n\nMax Wild Dino Level 150\n\nPlayer Weight Increased\n\nDino Weight Increased\n\nCrossplay Enabled\n\nNo Wipe"
+            "title": "Ascendancy PvP Rates",
+            "text": "XP x3\nHarvest x5\nTaming x10\nBreeding x20\nEgg Hatch x20\nLoot x3\nStack Size x5\nWild Dino Level 150\nSmall Tribes (6)\n24/7 PvP\nCrossplay Enabled"
           }
         ]
       },
-
       {
         "layout": 2,
         "buttontext": "🦖 Mods",
-        "imageurl": "https://i.imgur.com/AbGuckH.png",
+        "imageurl": "https://i.imgur.com/QTOREBJ.png",
         "content": [
           {
             "title": "Installed Mods",
-            "text": "QUALITY OF LIFE\n\n• Awesome Spyglass\n• Dino Depot\n• Solo Farm Mod\n• TG Stacking Mod\n• Automated Dino Wipes\n• WBUI2\n• Tip4Serv\n\nCREATURES\n\n• Shiny Dinos\n• Paleo Evolution\n• Dragon Kingdom\n• Runic Wyverns\n• S-Dino Variants\n• Moro's Creatures\n\nBUILDING\n\n• JVH Landscaping\n• JVH Garden Decor"
+            "text": "Awesome Spyglass\nDino Depot\nTG Stacking\nSolo Farm\nShiny Dinos\nPaleo Evolution\nDragon Kingdom\nRunic Wyverns\nS-Dino Variants\nMoro's Creatures\nJVH Landscaping\nJVH Garden Decor"
           }
         ]
       },
-
+      {
+        "layout": 2,
+        "buttontext": "⚔️ PvP",
+        "imageurl": "https://i.imgur.com/QTOREBJ.png",
+        "content": [
+          {
+            "title": "PvP Features",
+            "text": "24/7 PvP\nBalanced raiding\nBalanced breeding\nCustom loot\nCompetitive gameplay\nActive staff\nRegular events"
+          }
+        ]
+      },
       {
         "layout": 2,
         "buttontext": "🎁 Events",
-        "imageurl": "https://i.imgur.com/AbGuckH.png",
+        "imageurl": "https://i.imgur.com/QTOREBJ.png",
         "content": [
           {
-            "title": "Community Events",
-            "text": "Seasonal Events\n\nBoss Runs\n\nTreasure Hunts\n\nCommunity Challenges\n\nShiny Hunt Weekend\n\nGiveaways\n\nMore events coming soon!"
+            "title": "Weekly Events",
+            "text": "Coming soon"
           }
         ]
       },
-
+      {
+        "layout": 2,
+        "buttontext": "🛒 Shop",
+        "imageurl": "https://i.imgur.com/QTOREBJ.png",
+        "content": [
+          {
+            "title": "Ascendancy Store",
+            "text": "Purchase \nStarter Kits\nCosmetics\nDino Packs\nSpecial Event Items\nVisit our Tip4Serv Store for more information."
+          }
+        ]
+      },
+      {
+        "layout": 2,
+        "buttontext": "💬 Discord",
+        "imageurl": "https://i.imgur.com/QTOREBJ.png",
+        "content": [
+          {
+            "title": "Join our Discord",
+            "text": "Support Tickets\nAnnouncements\nLooking for Tribe\nEvents\nUpdates\nDiscord: https://discord.gg/aUnvPSQSA"
+          }
+        ]
+      },
       {
         "layout": 2,
         "buttontext": "📢 News",
-        "imageurl": "https://i.imgur.com/AbGuckH.png",
+        "imageurl": "https://i.imgur.com/QTOREBJ.png",
         "content": [
           {
-            "title": "Latest Updates",
-            "text": "Welcome to Ascendancy PvE!\n\nGenesis Server Online\n\nNew Shop Available\n\nDiscord Community Open\n\nMore custom content is coming soon."
+            "title": "Latest News",
+            "text": "Welcome to Ascendancy PvP!\nFresh start.\nCrossplay enabled.\nCustom balanced PvP.\nMore content coming soon."
           }
         ]
       },
-
       {
         "layout": 2,
         "buttontext": "❓ Help",
-        "imageurl": "https://i.imgur.com/AbGuckH.png",
+        "imageurl": "https://i.imgur.com/QTOREBJ.png",
         "content": [
           {
             "title": "Need Help?",
-            "text": "Need assistance?\n\nJoin our Discord\n\nOpen a Support Ticket\n\nRead the Server Rules\n\nContact an Admin\n\nWe are always happy to help!"
+            "text": "Open a Support Ticket in Discord.\nRead the server rules.\nContact an Admin if you need assistance."
           }
         ]
       }
-
     ],
-
     "links": [
       {
         "text": "💬 Discord",
@@ -135,7 +134,6 @@
         "url": "https://ascendancy.tip4serv.com/"
       }
     ],
-
     "version": 2
   }
 }
