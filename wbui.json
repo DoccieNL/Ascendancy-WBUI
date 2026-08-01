@@ -4,7 +4,7 @@
       "openbutton": 1,
       "hideicon": false,
       "hideiconafter": 30,
-      "iconurl": "https://i.imgur.com/QTOREBJ.png",
+      "iconurl": "https://i.imgur.com/hrnnj4X.jpeg",
       "disableicontext": false,
       "iconposition": 3,
       "icontextcolor": 6,
@@ -16,10 +16,10 @@
       {
         "layout": 1,
         "buttontext": "⚔️ Home",
-        "imageurl": "https://i.imgur.com/QTOREBJ.png",
+        "imageurl": "https://i.imgur.com/hrnnj4X.jpeg",
         "content": [
           {
-            "title": "Welcome to Ascendancy PvP",
+            "title": "Welcome to Hydra PvP",
             "text": "Fight. Build. Raid. Dominate.\n\nFresh PvP experience.\nBalanced gameplay.\nCrossplay enabled.\nWeekly events.\nGood luck, Survivor!"
           }
         ]
@@ -27,40 +27,40 @@
       {
         "layout": 2,
         "buttontext": "📜 Rules",
-        "imageurl": "https://i.imgur.com/QTOREBJ.png",
+        "imageurl": "https://i.imgur.com/hrnnj4X.jpeg",
         "content": [
           {
             "title": "Server Rules",
-            "text": "• No cheating or hacking.\n• No meshing or exploiting.\n• Max tribe size: 6.\n• No tribe alliances.\n• Respect all players and staff.\n• Racism, hate speech and harassment are not allowed.\n• Use common sense.\n\nBreaking the rules may result in a permanent ban."
+            "text": "• No cheating or hacking.\n• No meshing or exploiting.\n• Max tribe size: 3.\n• No tribe alliances.\n• Respect all players and staff.\n• Racism, hate speech and harassment are not allowed.\n• Use common sense.\n\nBreaking the rules may result in a permanent ban."
           }
         ]
       },
       {
         "layout": 2,
         "buttontext": "📊 Rates",
-        "imageurl": "https://i.imgur.com/QTOREBJ.png",
+        "imageurl": "https://i.imgur.com/hrnnj4X.jpeg",
         "content": [
           {
-            "title": "Ascendancy PvP Rates",
-            "text": "XP x3\nHarvest x5\nTaming x10\nBreeding x20\nEgg Hatch x20\nLoot x3\nStack Size x5\nWild Dino Level 150\nSmall Tribes (6)\n24/7 PvP\nCrossplay Enabled"
+            "title": "Hydra PvP Rates",
+            "text": "XP x10\nHarvest x10\nTaming x20\nBreeding x50\nEgg Hatch x100\nLoot x2\nStack Size x5\nWild Dino Level 150\n3-Man Tribes\nNo Alliances\n24/7 PvP\nCrossplay Enabled"
           }
         ]
       },
       {
         "layout": 2,
         "buttontext": "🦖 Mods",
-        "imageurl": "https://i.imgur.com/QTOREBJ.png",
+        "imageurl": "https://i.imgur.com/hrnnj4X.jpeg",
         "content": [
           {
             "title": "Installed Mods",
-            "text": "Awesome Spyglass\nDino Depot\nTG Stacking\nSolo Farm\nShiny Dinos\nPaleo Evolution\nDragon Kingdom\nRunic Wyverns\nS-Dino Variants\nMoro's Creatures\nJVH Landscaping\nJVH Garden Decor"
+            "text": "Coming Soon"
           }
         ]
       },
       {
         "layout": 2,
         "buttontext": "⚔️ PvP",
-        "imageurl": "https://i.imgur.com/QTOREBJ.png",
+        "imageurl": "https://i.imgur.com/hrnnj4X.jpeg",
         "content": [
           {
             "title": "PvP Features",
@@ -71,7 +71,7 @@
       {
         "layout": 2,
         "buttontext": "🎁 Events",
-        "imageurl": "https://i.imgur.com/QTOREBJ.png",
+        "imageurl": "https://i.imgur.com/hrnnj4X.jpeg",
         "content": [
           {
             "title": "Weekly Events",
@@ -82,10 +82,10 @@
       {
         "layout": 2,
         "buttontext": "🛒 Shop",
-        "imageurl": "https://i.imgur.com/QTOREBJ.png",
+        "imageurl": "https://i.imgur.com/hrnnj4X.jpeg",
         "content": [
           {
-            "title": "Ascendancy Store",
+            "title": "Hydra Store",
             "text": "Purchase \nStarter Kits\nCosmetics\nDino Packs\nSpecial Event Items\nVisit our Tip4Serv Store for more information."
           }
         ]
@@ -93,7 +93,7 @@
       {
         "layout": 2,
         "buttontext": "💬 Discord",
-        "imageurl": "https://i.imgur.com/QTOREBJ.png",
+        "imageurl": "hhttps://i.imgur.com/hrnnj4X.jpeg",
         "content": [
           {
             "title": "Join our Discord",
@@ -104,18 +104,18 @@
       {
         "layout": 2,
         "buttontext": "📢 News",
-        "imageurl": "https://i.imgur.com/QTOREBJ.png",
+        "imageurl": "https://i.imgur.com/hrnnj4X.jpeg",
         "content": [
           {
             "title": "Latest News",
-            "text": "Welcome to Ascendancy PvP!\nFresh start.\nCrossplay enabled.\nCustom balanced PvP.\nMore content coming soon."
+            "text": "Welcome to Hydra PvP!\nFresh start.\nCrossplay enabled.\nCustom balanced PvP.\nMore content coming soon."
           }
         ]
       },
       {
         "layout": 2,
         "buttontext": "❓ Help",
-        "imageurl": "https://i.imgur.com/QTOREBJ.png",
+        "imageurl": "https://i.imgur.com/hrnnj4X.jpeg",
         "content": [
           {
             "title": "Need Help?",
